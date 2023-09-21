@@ -1,2 +1,3 @@
 moja prva zmena
 riadok dva
+treti riadok
